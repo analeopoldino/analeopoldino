@@ -2,7 +2,7 @@
 
 ## ![Ana Leopoldino GitHub stats](https://github-readme-stats.vercel.app/api?username=analeopoldino&show_icons=true&theme=jolly)
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analeopoldino&hide_progress=true)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analeopoldino&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div  style="display: inline_block"><br>
