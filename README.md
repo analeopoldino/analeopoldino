@@ -1,4 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8c00ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ana+Leopoldino;I'm+18+years+old;I'm+from+Brazil;;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=35&pause=500&color=8C00FF&center=true&vCenter=true&width=1000&lines=Hello+:%29;My+name+is+Ana+Luiza;I+am+18+years+old;I'm+from+Brazil+and+I+live+in+Minas+Gerais;I'm+a+systems+development+student;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=analeopoldino&bg_color=000000&color=8c00ff&line=8c00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -7,6 +8,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=analeopoldino&show_icons=true&count_private=true&hide_border=true&title_color=8c00ff&icon_color=8c00ff&text_color=8c00ff&bg_color=000000" alt="Ana Leopoldino github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeopoldino&layout=donut&hide_border=true&title_color=8c00ff&icon_color=8c00ff&text_color=8c00ff&bg_color=000000"/>
 </div>
+
+##
 
 
  <div  align="center" ><br>
