@@ -4,10 +4,25 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=analeopoldino&bg_color=000000&color=8c00ff&line=8c00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=analeopoldino&show_icons=true&count_private=true&hide_border=true&title_color=8c00ff&icon_color=8c00ff&text_color=8c00ff&bg_color=000000" alt="Ana Leopoldino github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeopoldino&layout=donut&hide_border=true&title_color=8c00ff&icon_color=8c00ff&text_color=8c00ff&bg_color=000000"/>
-</div>
+<!-- Primeira e Terceira Imagem -->
+<table>
+  <tr>
+    <td>
+      <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=analeopoldino&show_icons=true&count_private=true&hide_border=true&title_color=8c00ff&icon_color=8c00ff&text_color=8c00ff&bg_color=000000" alt="Ana Leopoldino github stats"/>
+    </td>
+    <td rowspan="2">
+      <!-- Segunda Imagem -->
+      <img width="100%" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeopoldino&layout=pie&hide_border=true&title_color=8c00ff&icon_color=8c00ff&text_color=8c00ff&bg_color=000000" alt="analeopoldino"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Terceira Imagem -->
+      <img width="100%" height="190px" src="https://github-readme-streak-stats.herokuapp.com?user=analeopoldino&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=8C00FF&background=000000&border=000000&stroke=8C00FF&ring=8C00FF&fire=8C00FF&sideNums=8C00FF&currStreakLabel=8C00FF&sideLabels=8C00FF&dates=8C00FF&excludeDaysLabel=8C00FF" alt="analeopoldino"/>
+    </td>
+  </tr>
+</table>
+
 
 ##
 
