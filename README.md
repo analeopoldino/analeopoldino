@@ -1,44 +1,21 @@
+<h3 align="center">hello a Ana src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%></h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=analeopoldino&bg_color=000000&color=8c00ff&line=8c00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+I'm Ana, a tech and college studie.
+</p>
 
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+</h4>
+<p  align="center">
+<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+</p>
 
-<!-- Primeira e Terceira Imagem -->
-<table >
-  <tr>
-    <td>
-      <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=analeopoldino&show_icons=true&count_private=true&hide_border=true&title_color=8c00ff&icon_color=8c00ff&text_color=8c00ff&bg_color=000000" alt="Ana Leopoldino github stats"/>
-    </td>
-    <td rowspan="2">
-      <!-- Segunda Imagem -->
-      <img width="100%" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeopoldino&layout=pie&hide_border=true&title_color=8c00ff&icon_color=8c00ff&text_color=8c00ff&bg_color=000000" alt="analeopoldino"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <!-- Terceira Imagem -->
-      <img width="100%" height="190px" src="https://github-readme-streak-stats.herokuapp.com?user=analeopoldino&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=8C00FF&background=000000&border=000000&stroke=8C00FF&ring=8C00FF&fire=8C00FF&sideNums=8C00FF&currStreakLabel=8C00FF&sideLabels=8C00FF&dates=8C00FF&excludeDaysLabel=8C00FF" alt="analeopoldino"/>
-    </td>
-  </tr>
-</table>
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
 
-
-##
-
-
- <div  align="center" ><br>
-  <img align="center" alt="Ana-Js" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-
-##
-
-
-
-<div  align="center"><br>
-  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ana-luiza-gonçalves-leopoldino-marques-550615286)](https://www.linkedin.com/in/ana-luiza-gonçalves-leopoldino-marques-550615286)
-  
-</div>
-
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
