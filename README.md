@@ -1,21 +1,23 @@
-<h3 align="center">hello a Ana src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%></h3>
-
 <p align="center">
-I'm Ana, a tech and college studie.
+  <img src="https://media1.tenor.com/m/oRpvVCFlpNMAAAAC/crt-anime.gif" alt="Crt Anime GIF" height="150" width="80%">
 </p>
-
+<p align="center">
+  I'm Ana, a tech enthusiast and college student.
+</p>
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
-</h4>
-<p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
-</p>
-
+    <p align="center">
+      🖥️ Currently studying backend development.
+    </p>
+    <p align="center">
+      📚 Studying Systems Engineering and exploring projects with PHP and JavaScript. Connect with me on <a href="https://www.linkedin.com/in/ana-luiza-gonçalves-leopoldino-marques/">LinkedIn</a>.
+    </p>
 <br/>
 <h3 align="center">
-My Tech Stacks
+  My Tech Stacks
 </h3>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
-</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</p>
+<p align="center">
+  <img src="./wave.svg" alt="Decorative Wave" width="100%" height="100%">
+</p>
