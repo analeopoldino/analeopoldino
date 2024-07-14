@@ -1,6 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=35&pause=500&color=8C00FF&center=true&vCenter=true&width=1000&lines=Hello+:%29;My+name+is+Ana+Luiza;I+am+18+years+old;I'm+from+Brazil+and+I+live+in+Minas+Gerais;I'm+a+systems+development+student;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=analeopoldino&bg_color=000000&color=8c00ff&line=8c00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
