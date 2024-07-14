@@ -7,7 +7,8 @@
     📚 Studying Systems Engineering<br/>
     🖥️ Currently studying backend development.<br/>
     👩🏽‍💻 And exploring projects with PHP and JavaScript.<br/>
-    🔗Connect with me on <a href="https://www.linkedin.com/in/ana-luiza-goncalves-leopoldino-marques/">LinkedIn</a>.
+    🔗 Connect with me on:<br/>
+    <a href="https://www.linkedin.com/in/ana-luiza-goncalves-leopoldino-marques/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <br/>
