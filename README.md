@@ -2,12 +2,12 @@
   <img src="https://media1.tenor.com/m/oRpvVCFlpNMAAAAC/crt-anime.gif" alt="Crt Anime GIF" height="200" width="100%">
 </p>
 
-<strong><h1 align="center">Hi I'm Ana, a tech enthusiast and college student!</h1></strong><br/>
+<strong><h1 align="center">Hi, I'm Ana! A tech student!</h1></strong><br/>
 <p align="center">
     📚 Studying Systems Engineering<br/>
     🖥️ Currently studying backend development.<br/>
     👩🏽‍💻 And exploring projects with PHP and JavaScript.<br/>
-    🔗Connect with me on <a href="https://www.linkedin.com/in/ana-luiza-gonçalves-leopoldino-marques/">LinkedIn</a>.
+    🔗Connect with me on <a href="https://www.linkedin.com/in/ana-luiza-goncalves-leopoldino-marques/">LinkedIn</a>.
 </p>
 
 <br/>
