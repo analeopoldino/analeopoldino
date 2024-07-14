@@ -24,5 +24,5 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="images/wave.svg" alt="Decorative Wave" width="100%" height="100%">
+  <img src="images/" alt="Decorative Wave" width="100%" height="100%">
 </p>
