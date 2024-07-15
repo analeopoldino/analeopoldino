@@ -4,7 +4,7 @@
       <img src="https://media1.tenor.com/m/oRpvVCFlpNMAAAAC/crt-anime.gif" alt="Crt Anime GIF" style="width: 100%; max-width: 400px; height: auto;">
       <img src="https://media1.tenor.com/m/BJ-9w-MUVCMAAAAC/tis100-sad.gif" alt="Tis100 Sad GIF" style="width: 100%; max-width: 400px; height: auto;">
     </td>
-   <td style="width: 50%; text-align: left; vertical-align: top; padding-top: 0;">
+    <td style= "padding-top: 0;text-align: left;vertical-align: top;">
       <strong><h1 align="center">Hi, I'm Ana! A tech student!</h1></strong>
       <p align="center">
           📚 Studying Systems Engineering<br/>
