@@ -4,7 +4,7 @@
       <img src="https://media1.tenor.com/m/oRpvVCFlpNMAAAAC/crt-anime.gif" alt="Crt Anime GIF" style="width: 100%; max-width: 400px; height: auto;">
       <img src="https://media1.tenor.com/m/BJ-9w-MUVCMAAAAC/tis100-sad.gif" alt="Tis100 Sad GIF" style="width: 100%; max-width: 400px; height: auto;">
     </td>
-    <td style="width: 50%; text-align: left;">
+   <td style="width: 50%; text-align: left; vertical-align: top; padding-top: 0;">
       <strong><h1 align="center">Hi, I'm Ana! A tech student!</h1></strong>
       <p align="center">
           📚 Studying Systems Engineering<br/>
@@ -15,6 +15,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
           </a>
       </p>
+      <br/>
       <h1 align="center">Languages and Tools</h1>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
