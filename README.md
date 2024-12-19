@@ -6,8 +6,7 @@
 <div style="display: flex; flex-direction: column;">
   <p style="text-align: start;">
       <img src="images/books-study-learning-education-reading-library-svgrepo-com.svg" alt="Studying Systems Engineering" style="width: 30px; height: 20px;"/> Studying Systems Engineering <br/>
-      <img src="images/laptop-computer-coding-code-script-svgrepo-com.svg" alt="Currently studying backend development" style="width: 30px; height: 20px;"/> Currently studying backend development <br/>
-      <img src="images/computer-programmer-software-engineer-coder-software-developer-svgrepo-com.svg" alt="Exploring projects with PHP and JavaScript" style="width: 25px; height: 20px;"/> Exploring projects with PHP and JavaScript <br/><br/> 
+      <img src="images/laptop-computer-coding-code-script-svgrepo-com.svg" alt="Currently studying backend development" style="width: 30px; height: 20px;"/> Currently studying backend development <br/>     
       <a  href="https://www.linkedin.com/in/ana-luiza-goncalves-leopoldino-marques/" style="text-decoration: none; display: block; text-align: center; margin-top: 10px;">
         <p></p><img align="start" src="https://img.shields.io/badge/Connect%20with%20me%20on-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
