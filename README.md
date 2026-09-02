@@ -13,7 +13,5 @@
   </p>
 </div>
 
-<p align="start">
-    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=analeopoldino&card_width=300&text_bold=true&show_icons=true&hide_border=true&theme=transparent&icon_color=ffffff&text_color=ffffff&title_color=ffffff&rank_icon=github"/>
-    <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeopoldino&layout=compact&hide_border=true&theme=transparent&text_color=ffffff&title_color=ffffff"/>
-</p>
+
+
