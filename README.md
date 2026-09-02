@@ -13,18 +13,6 @@
   </p>
 </div>
 
-<h1 align="start">Languages and Tools</h1>
-<p align="start">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black&color=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black&color=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black&color=white" alt="C"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black&color=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&color=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black&color=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black&color=white" alt="Visual Studio Code"/>
-</p>
-
 <p align="start">
     <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=analeopoldino&card_width=300&text_bold=true&show_icons=true&hide_border=true&theme=transparent&icon_color=ffffff&text_color=ffffff&title_color=ffffff&rank_icon=github"/>
     <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeopoldino&layout=compact&hide_border=true&theme=transparent&text_color=ffffff&title_color=ffffff"/>
